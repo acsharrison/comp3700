@@ -1,38 +1,15 @@
 site_name: Assigment 1 - Facebook Mock 
 site_description: >-
   User Story 
-site_url: ""
+site_url: https://mockfacebook.com/
 site_author: Sophie Harrison
-repo_name: ""
-repo_url: https://github.ibm.com/acsharrison/comp3700
-docs_dir: docs
-site_dir: public
-edit_uri: edit/master/docs
-theme:
-    name: material
-    palette:
-      scheme: default
-      primary: black
-    font:
-      text: IBM Plex Sans
-      code: IBM Plex Mono
-    language: en
-    custom_dir: overrides
-    features:
-      - navigation.tabs
-      - navigation.instant
-      - navigation.tracking
-      - navigation.tabs.sticky
-      - navigation.top
-      #- navigation.indexes
-      - navigation.sections
+repo_url: https://github.com/acsharrison/comp3700
 nav:
   - Home: index.md
-  - MVP 0 - User Cases:
-    - User Case 1: MVP0/usercase1.md
-    - User Case 2: MVP0/usercase2.md
-
+  - User Cases:
+    - User Case 1: usercase1.md
+    - User Case 2: usercase2.md
+these: readthedocs
 markdown_extensions:
   - attr_list
   - md_in_html
-  - mdx_truly_sane_lists
