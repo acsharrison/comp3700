@@ -21,3 +21,4 @@ The photo preview is displayed on the screen, and the user can add a caption, ta
 </br>
 
 The user clicks the "Upload" button to upload the photo to the photo sharing application.
+![Dog Picture](/Users/sophieharrison/Desktop/comp3700/images/dog.png) </br>
